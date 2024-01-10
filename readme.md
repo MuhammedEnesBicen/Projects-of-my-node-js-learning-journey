@@ -1,0 +1,1 @@
+I will be storing my nodeJS projects in this repo. Most of these projects will be basic and because of that i wanted to store them in one repo to not let my github page be garbage of small-basic projects.
